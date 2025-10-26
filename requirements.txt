@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 fastapi==0.104.1
 uvicorn==0.24.0
 pydantic==2.5.0
@@ -8,14 +8,3 @@ pdf2image==1.16.3
 pymupdf==1.23.8
 pillow==10.1.0
 python-dotenv==1.0.0
-=======
-pydantic
-python-multipart
-pillow
-pytesseract
-pdf2image
-pymupdf  # Alternative: fitz (faster PDF processing)
-python-dotenv
-fastapi
-uvicorn
->>>>>>> f2456c6694fd1914663f3ff2a95b7cde82aefa2a
