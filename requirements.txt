@@ -1,0 +1,7 @@
+pydantic
+python-multipart
+pillow
+pytesseract
+pdf2image
+pymupdf  # Alternative: fitz (faster PDF processing)
+python-dotenv
